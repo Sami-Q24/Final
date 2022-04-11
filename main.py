@@ -1,3 +1,1 @@
-import turtle
-
-new = turtle.Turtle()
+hhh
